@@ -1,0 +1,35 @@
+{
+  "name": "mtkuma",
+  "version": "1.0.0",
+  "description": "presentation card unsing npx",
+  "keywords": [
+    "card",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card"
+  ],
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FourneauxThibaut/npx-card.git"
+  },
+  "author": "Fourneaux Thibaut <fourneaux.thibaut@gmail.com> (https://thibaut-fourneaux.be/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FourneauxThibaut/npx-card/issues"
+  },
+  "homepage": "https://github.com/FourneauxThibaut/npx-card#readme",
+  "dependencies": {
+    "boxen": "^6.2.1",
+    "chalk": "^4.1.1",
+    "gradient-string": "^2.0.0",
+    "open": "^7.0.4"
+  }
+}
