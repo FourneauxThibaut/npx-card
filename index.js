@@ -8,7 +8,7 @@ const titleColor = 'silver';
 const argColor = 'cyan';
 const owlColor = 'white';
 
-await open('https://sindresorhus.com');
+await open('https://thibaut-fourneaux.be');
 const data = {
 
     nameLine1: gradient([
